@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight">
         <activity android:name=".Main2Activity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"></activity>
         <activity android:name=".Swipe"
             android:screenOrientation="portrait"/>
         <activity android:name=".MainActivity"
